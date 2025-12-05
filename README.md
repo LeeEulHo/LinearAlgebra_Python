@@ -1,24 +1,36 @@
 # 개발자를 위한 실전 선형대수학
-책과 함께 제공되는 코드 및 연습 문제 해답입니다. 
 
-도서 구매 링크
-<br>
-한빛출판네트워크: https://hanbit.co.kr/store/books/look.php?p_code=B4279863215
-<br>
-YES24: https://www.yes24.com/Product/Goods/122586598
-<br>
-알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=325100604
-<br>
-교보문고: https://product.kyobobook.co.kr/detail/S000209345747
-<br>
+해당 project는 한빛미디어 개발자를 위한 실전 선형대수학의 실습 코드를 활용하여 선형대수학의 이해와 코드로의 시각화 및 구현을 목적으로 합니다.
 
-원서 구매 링크
-https://www.amazon.com/Practical-Linear-Algebra-Data-Science/dp/1098120612/
+목차는 다음과 같습니다.
 
-이 리포지토리에는 책과 함께 제공되는 모든 Python 코드가 포함되어 있습니다. 책이 없으면 코드가 유용하지 않을 수도 있습니다.
+- 1. 벡테와 벡터의 기본 연산
 
-### 모든 연습 문제에는 YT 동영상이 함께 제공됩니다!
-(**참고 동영상의 장 번호는 한국어판 장 번호의 +1을 해야 합니다(예시: 영상의 2장 = 책 1장)
-<br>
-동영상은 문제, 해결책, 코드에 대한 자세한 설명을 제공합니다. 확인해 보세요!
-https://www.youtube.com/watch?v=Vpei9S9mFyM&list=PLn0OLiymPak3REyB3XNqqqsRAhZ3LSEH8
+- 2. 벡터의 확장 개념
+
+- 3. 벡터의 응용
+
+- 4. 행렬과 행렬의 기본 연산
+
+- 5. 행렬의 확장 개념
+
+- 6. 데이터 분석에서의 행렬
+
+- 7. 행렬 방정식의 만능 키
+
+- 8. 직교 행렬과 QR분해
+
+- 9. 행 축소와 LU 분해
+
+- 10. 일반 선형 모델 및 최소제곱법
+
+- 11. 최소제곱법 응용(실제 데이터 활용 최소제곱법)
+
+- 12. 고윳값 분해 (Eigen value discomposition)
+
+- 13. 특잇값 분해 (SVD, Singular Value Discomposition)
+
+- 14. 고윳값 분해와 SVD의 응용에 대하여
+
+
+참고자료 : https://www.youtube.com/watch?v=Vpei9S9mFyM&list=PLn0OLiymPak3REyB3XNqqqsRAhZ3LSEH8
